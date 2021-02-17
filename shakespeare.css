@@ -8,6 +8,7 @@
     font-family:'Times New Roman', Times, serif;
     color:black;
     background-color:lightcyan ;
+    display: inline;
 }
 .name{
     font: 25px;
@@ -16,8 +17,8 @@
 }
 
 .stage-direction:hover{
-    background-color:lightpink;
-    color: #123456;
+    background-color:hsl(351, 100%, 86%);
+    color:rgb(28, 28, 209);
 }
 
 .sir-toby-blech {
