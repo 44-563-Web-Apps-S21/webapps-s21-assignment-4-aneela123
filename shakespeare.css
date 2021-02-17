@@ -28,4 +28,28 @@
 .maria{
     color:maroon;
 }
-
+table{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+table,td,th{
+    border: 5px solid coral;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 22px;
+}
+th{
+    background-color:rgb(48, 0, 138);
+    text-decoration: underline;
+    color:darkturquoise;
+    font-size: large;
+}
+td{
+    color:gold;
+    margin: 1px;
+}
+tr:nth-child(even){
+    background-color:lightcyan;
+}
