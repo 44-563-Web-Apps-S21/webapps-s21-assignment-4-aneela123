@@ -1,29 +1,27 @@
 .speech{
     
-    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px ;
     color:black;
 }
 .stage-direction{
-    font-family:'Times New Roman', Times, serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: black;
     background-color:lightcyan ;
+    display: inline;
+}
+.stage-direction:hover{
+    color:rgb(28, 28, 209);
+    background-color:hsl(351, 100%, 86%);
     display: inline;
 }
 .name{
     
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
-    color: black;
+    color:black;
 }
-
-.stage-direction:hover{
-    color:rgb(28, 28, 209);
-    background-color:hsl(351, 100%, 86%);
-    display: inline;
-}
-
 .sir-toby-blech {
     color: lime;
 }
