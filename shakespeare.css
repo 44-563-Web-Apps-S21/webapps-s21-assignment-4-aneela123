@@ -19,9 +19,10 @@
 .stage-direction:hover{
     background-color:hsl(351, 100%, 86%);
     color:rgb(28, 28, 209);
+    display: inline;
 }
 
-.sir-toby-blech {
+.sir toby blech {
     color: lime;
 }
 .maria{
