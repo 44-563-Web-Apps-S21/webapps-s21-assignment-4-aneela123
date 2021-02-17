@@ -1,0 +1,28 @@
+.speech{
+    font-size: 15px ;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color:black
+}
+.stage-direction{
+    font: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color:black
+    background-color:lightcyan ;
+}
+.name{
+    font: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.stage-direction:hover{
+    background-color:lightpink;
+    color: #123456;
+}
+.sir toby blech:{
+    color: lime;
+}
+.maria{
+    color:maroon;
+}
+
