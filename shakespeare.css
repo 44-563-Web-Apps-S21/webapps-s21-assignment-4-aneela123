@@ -1,7 +1,7 @@
 .speech{
     font-size: 15px ;
     font-family:Georgia, 'Times New Roman', Times, serif ;
-    color:black
+    color:black;
 }
 .stage-direction{
     font: 20px;
@@ -19,7 +19,8 @@
     background-color:lightpink;
     color: #123456;
 }
-.sir toby blech:{
+
+.sir-toby-blech {
     color: lime;
 }
 .maria{
